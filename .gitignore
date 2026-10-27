@@ -1,0 +1,19 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# IDE files
+.idea/
+
+# Secrets
+.env
+*.key
+
+# AI assistant files
+.junie/
